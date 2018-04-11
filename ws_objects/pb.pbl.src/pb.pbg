@@ -5,5 +5,6 @@
 @begin Objects 
  "pb.sra" "pb.pbl";
  "d_main.srd" "pb.pbl";
+ "w_child.srw" "pb.pbl";
  "w_main.srw" "pb.pbl";
 @end;
